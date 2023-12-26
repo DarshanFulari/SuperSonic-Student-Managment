@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 02 17:10:19 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-0174-e91c-e0e0-000000541e80 
+on database directory D:\Gaurav I-MCA\Project 3rd year\SuperSonic Student Managment\student_management  with class loader sun.misc.Launcher$AppClassLoader@106d69c 
+Loaded from file:/D:/Gaurav%20I-MCA/Project%203rd%20year/SuperSonic%20Student%20Managment/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=D:\Gaurav I-MCA\Project 3rd year\SuperSonic Student Managment
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
